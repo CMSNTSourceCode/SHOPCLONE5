@@ -1,0 +1,7 @@
+[LOG] Sản phẩm ID  đã bị xóa khỏi hệ thống vào lúc 2021/04/12 00:35:59
+[LOG] Sản phẩm ID 9 đã bị xóa khỏi hệ thống vào lúc 2021/04/12 00:36:37
+[LOG] Sản phẩm ID 14 đã bị xóa khỏi hệ thống vào lúc 2021/06/27 15:36:34
+[LOG] Sản phẩm ID 16 đã bị xóa khỏi hệ thống vào lúc 2021/06/28 07:59:30
+[LOG] Sản phẩm ID 17 đã bị xóa khỏi hệ thống vào lúc 2021/06/28 08:00:16
+[LOG] Sản phẩm ID 13 đã bị xóa khỏi hệ thống vào lúc 2021/06/30 23:42:50
+[LOG] Sản phẩm ID 12 đã bị xóa khỏi hệ thống vào lúc 2021/06/30 23:42:53

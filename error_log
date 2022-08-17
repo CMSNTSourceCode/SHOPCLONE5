@@ -1,0 +1,37 @@
+[02-Oct-2021 20:52:00 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/jovneswehosting/public_html/config/config.php on line 15
+[02-Oct-2021 20:52:00 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/jovneswehosting/public_html/config/config.php on line 15
+[02-Oct-2021 20:52:11 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/jovneswehosting/public_html/config/config.php:35
+Stack trace:
+#0 /home/jovneswehosting/public_html/config/function.php(3): CMSNT->site('noidung_naptien')
+#1 /home/jovneswehosting/public_html/index.php(3): require_once('/home/jovnesweh...')
+#2 {main}
+  thrown in /home/jovneswehosting/public_html/config/config.php on line 35
+[02-Oct-2021 20:52:11 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/jovneswehosting/public_html/config/config.php:35
+Stack trace:
+#0 /home/jovneswehosting/public_html/config/function.php(3): CMSNT->site('noidung_naptien')
+#1 /home/jovneswehosting/public_html/index.php(3): require_once('/home/jovnesweh...')
+#2 {main}
+  thrown in /home/jovneswehosting/public_html/config/config.php on line 35
+[02-Oct-2021 20:52:13 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/jovneswehosting/public_html/config/config.php:35
+Stack trace:
+#0 /home/jovneswehosting/public_html/config/function.php(3): CMSNT->site('noidung_naptien')
+#1 /home/jovneswehosting/public_html/index.php(3): require_once('/home/jovnesweh...')
+#2 {main}
+  thrown in /home/jovneswehosting/public_html/config/config.php on line 35
+[02-Oct-2021 20:55:24 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/jovneswehosting/public_html/config/config.php:35
+Stack trace:
+#0 /home/jovneswehosting/public_html/config/function.php(3): CMSNT->site('noidung_naptien')
+#1 /home/jovneswehosting/public_html/index.php(3): require_once('/home/jovnesweh...')
+#2 {main}
+  thrown in /home/jovneswehosting/public_html/config/config.php on line 35
+[02-Oct-2021 20:59:00 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(https://vudinhnamkhanh.xyz/install.php): failed to open stream: Connection timed out in /home/jovneswehosting/public_html/Update.php on line 29
+[05-Oct-2021 08:01:28 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/jovneswehosting/public_html/config/config.php on line 15
+[05-Oct-2021 08:02:22 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/jovneswehosting/public_html/config/config.php on line 15
+[05-Oct-2021 08:02:25 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/jovneswehosting/public_html/config/config.php on line 15
+[05-Oct-2021 08:25:02 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/jovneswehosting/public_html/config/config.php on line 15
+[05-Oct-2021 09:12:00 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/jovneswehosting/public_html/config/config.php on line 15
+[05-Oct-2021 09:15:56 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/jovneswehosting/public_html/config/config.php on line 15
+[05-Oct-2021 09:45:28 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/jovneswehosting/public_html/config/config.php on line 15
+[05-Oct-2021 09:58:10 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/jovneswehosting/public_html/config/config.php on line 15
+[05-Oct-2021 11:09:26 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/jovneswehosting/public_html/config/config.php on line 15
+[05-Oct-2021 11:12:20 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/jovneswehosting/public_html/config/config.php on line 15

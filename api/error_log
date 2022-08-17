@@ -1,0 +1,3 @@
+[05-Oct-2021 07:44:30 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: amount in /home/jovneswehosting/public_html/api/card.php on line 12
+[05-Oct-2021 07:44:30 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: amount_real in /home/jovneswehosting/public_html/api/card.php on line 13
+[05-Oct-2021 07:44:30 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: amount_recieve in /home/jovneswehosting/public_html/api/card.php on line 14
