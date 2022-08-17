@@ -12,7 +12,7 @@ class CMSNT
     {
         if (!$this->ketnoi)
         {
-            $this->ketnoi = mysqli_connect('localhost', 'haitensh_shopclone5', 'haitensh_shopclone5', 'haitensh_shopclone5') or die ('Vui lòng kết nối đến DATABASE');
+            $this->ketnoi = mysqli_connect('localhost', '', '', '') or die ('Vui lòng kết nối đến DATABASE');
             mysqli_query($this->ketnoi, "set names 'utf8'");
         }
     }
