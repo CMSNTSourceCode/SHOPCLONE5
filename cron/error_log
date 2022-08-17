@@ -1,3 +1,0 @@
-[24-Nov-2021 16:45:32 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: momoMsg in /home/dominhtr/public_html/cron/momo.php on line 25
-[24-Nov-2021 16:45:32 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/dominhtr/public_html/cron/momo.php on line 25
-[24-Nov-2021 16:45:32 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/dominhtr/public_html/cron/momo.php on line 25
